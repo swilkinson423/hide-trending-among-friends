@@ -1,0 +1,15 @@
+{
+	"name": "Hide 'Trending Among Friends'",
+	"author": "PewPewLAS3RGUN",
+	"target": "Home",
+	"version": "v1.0",
+	"description": "Hides the 'trending among friends' section from the home menu. ",
+	"manifest_version": 5,
+	"inject": {
+		"shared.css": [
+			"SP"
+		]
+	},
+	"dependencies": {},
+	"patches": {}
+}
